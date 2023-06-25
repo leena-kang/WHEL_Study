@@ -3,7 +3,7 @@
 WHEL Study:  https://library.ucsd.edu/dc/object/bb2493244b
 
 ### About the Project:
-Investigating whether there is **predictive power** in a patient's diet, clinical measurements, and lifestyle (over time) with their **recurrence** in their **breast cancer** condition 
+Investigating whether (based on WHEL Study dataset) there is **predictive power** in a patient's diet, clinical measurements, and lifestyle (over time) with their **recurrence** in their **breast cancer** condition 
 
 ### Targeted Skillsets:
 Supervised Machine Learning (Classification), Exploratory Data Analysis, Data Visualization, Hypothesis Testing
